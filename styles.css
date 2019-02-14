@@ -96,6 +96,10 @@ body{
   height: 30%;
 }
 
+.card:hover{
+  transform:scale(1.1);
+}
+
 /* section-1 */
 
 .section-1, .heading-1

@@ -6,23 +6,22 @@ font-family: 'Pacifico', cursive; */
 body{
   margin-left: 0%;
   padding-left: 0%;
-  font-family: 'Lobster', cursive;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 /* header */
 .navbar-bar
 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Pacifico', cursive;
   font-size: 35px;
   color: lightcoral !important;
 }
-
 .nav-link
 {
   font-size: 16px;
   margin: 15px;
   color: black !important;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 .nav-link:hover
@@ -66,4 +65,40 @@ body{
 .site-title
 {
   margin-top: 30%;
+  margin-bottom: 6px;
+  font-size: 50px;
+}
+.site-desc
+{
+  font-size: 18px;
+  padding-left: 15%;
+}
+
+.site-btn1
+{
+  margin-left: 20%;
+  background-color: black;
+  color: white;
+}
+.site-btn2
+{
+  background-color: white;
+}
+
+.site-btn1, .site-btn2
+{
+  margin-top: 5%;
+  margin-bottom: 40%;
+}
+
+.card img
+{
+  height: 30%;
+}
+
+/* section-1 */
+
+.section-1, .heading-1
+{
+  margin-top: 8%;
 }

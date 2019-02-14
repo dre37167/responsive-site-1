@@ -1,0 +1,52 @@
+/* google fonts */
+/* font-family: 'Nunito Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive; */
+
+body{
+  margin-left: 0%;
+  padding-left: 0%;
+  font-family: 'Lobster', cursive;
+}
+
+/* header */
+.navbar-bar
+{
+  font-family: 'Lobster', cursive;
+  font-size: 35px;
+  color: lightcoral !important;
+}
+
+.nav-link
+{
+  font-size: 16px;
+  margin: 15px;
+  color: black !important;
+  font-family: 'Pacifico', cursive;
+}
+
+.nav-link:hover
+{
+  color: #2980b9 !important;
+}
+
+.active .nav-link
+{
+  color: #e74c3c !important;
+}
+
+.menu-right-btn
+{
+  padding: 13px 46px;
+  margin-right: 4%;
+  background: transparent;
+  transition: all 300ms ease-in;
+}
+
+.menu-right-btn:hover
+{
+  color: white;
+  background-color: #2980b9;
+}
+
+/* main */

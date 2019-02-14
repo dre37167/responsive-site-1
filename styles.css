@@ -50,3 +50,20 @@ body{
 }
 
 /* main */
+.site-content
+{
+  background-image: url(images/mybackground1.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.site-title, .site-desc
+{
+  color: white;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.site-title
+{
+  margin-top: 30%;
+}

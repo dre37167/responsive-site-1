@@ -102,3 +102,15 @@ body{
 {
   margin-top: 8%;
 }
+
+.btn-secondary
+{
+  height: 5%;
+  background:#2980b9;
+  color: white;
+  border: none;
+}
+
+.btn-secondary:hover{
+  background-color: #3498db;
+}
